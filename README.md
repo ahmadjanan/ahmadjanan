@@ -40,8 +40,8 @@
 <hr>
 
 <p align="center">
-  <img width="400px" src="[https://github-readme-stats.vercel.app/api?username=ahmadjanan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E](https://github-readme-stats.vercel.app/api?username=ahmadjanan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E)" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmadjanan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmadjanan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmadjanan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
 <a href="https://github.com/ahmadjanan"><img alt="Ahmad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmadjanan&theme=react-dark&hide_border=true&area=true"/></a>
