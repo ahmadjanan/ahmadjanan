@@ -1,11 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi &lt;folks/&gt;! 
+         <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, &lt;folks/&gt;! </h1>
+         width="45" />
+</h1>
 
  <h2 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahmad+Ali+Khan;Software+Engineer;Backend+Developer;AI+enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahmad+Ali+Khan;Software+Engineer;Backend+Developer;AI/ML+Enthusiast)](https://git.io/typing-svg)
     </h2>
 
 
