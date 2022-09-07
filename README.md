@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/ahmadjanan/" target="_blank">
     <img alt="Ahmad Ali Khan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ahmadjanan" target="_blank">
+  <a href="https://www.instagram.com/ahmadjanan_" target="_blank">
     <img alt="Ahmad Ali | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
