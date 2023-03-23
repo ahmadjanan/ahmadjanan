@@ -44,4 +44,5 @@
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmadjanan&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmadjanan&theme=radical&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <br><img src="https://komarev.com/ghpvc/?username=ahmadjanan&style=flat&color=blueviolet" alt=ahmadjanan/>
 </p>
