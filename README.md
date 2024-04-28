@@ -37,6 +37,8 @@
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
      <img src="https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django"/>
      <img src="https://img.shields.io/badge/pandas-%230081CB.svg?style=for-the-badge&logo=pandas"/>
+     <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <hr>
